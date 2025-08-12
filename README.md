@@ -1,4 +1,4 @@
-# Olímpia Turismo — Skeleton (Next.js + Tailwind)
+# Projeto Site Olímpia Turismo — Skeleton (Next.js + Tailwind)
 
 ## Requisitos
 - Node 18+ (recomendado 20)
