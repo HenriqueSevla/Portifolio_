@@ -1,0 +1,7 @@
+{
+  "/api/cards/route": "app/api/cards/route.js",
+  "/api/item/[slug]/route": "app/api/item/[slug]/route.js",
+  "/detalhes/[slug]/page": "app/detalhes/[slug]/page.js",
+  "/page": "app/page.js",
+  "/checkout/page": "app/checkout/page.js"
+}
